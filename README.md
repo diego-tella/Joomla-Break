@@ -9,4 +9,5 @@ Python 2.7.18
 
 <h3><b>What is the token?</b></h3>
 The token is a string that joomla uses to authenticate itself. It is necessary for our brute-force, so you have to catch it with Burp.
+
 ![alt text](http://keklulz.ueuo.com/uploads/token.png)
