@@ -6,7 +6,7 @@ Python 2.7.18
 <h3><b>Instalation:</b></h3>
 
 ```
-https://github.com/diego-tella/Brute-Basic-Auth.git
+git clone https://github.com/diego-tella/Brute-Basic-Auth.git
 cd Brute-Basic-Auth
 ```
 
