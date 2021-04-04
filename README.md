@@ -4,9 +4,8 @@ Tested in version 3.9.24<br>
 Python 2.7.18
 
 <h3><b>Instalation:</b></h3>
-```
-https://github.com/diego-tella/Brute-Basic-Auth.git
-cd Brute-Basic-Auth```
+```https://github.com/diego-tella/Brute-Basic-Auth.git```
+```cd Brute-Basic-Auth```
 
 <h3><b>Use:</b></h3>
 
